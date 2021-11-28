@@ -3,5 +3,7 @@
 ### how to show alert
 ```
 window.alert('This is a alert box');
+
 ```
-![picb](https://user-images.githubusercontent.com/95132115/143728051-5919130e-aa4b-475f-898e-19051a02def3.png)
+![000906](https://user-images.githubusercontent.com/95132115/143729233-e5b058f4-7a01-4a52-b11e-45d9fa98c339.jpg)
+![App Screenshot](https://i.imgur.com/uMyTSAt.jpg)
